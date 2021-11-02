@@ -1,8 +1,8 @@
 # Helpers -----------------------------------------------------------------
 
-source("data_simulation.R")
-source("full_conditionals.R")
-source("gibbs_sampler.R")
+source("univar_ar1/data_simulation.R")
+source("univar_ar1/full_conditionals.R")
+source("univar_ar1/gibbs_sampler.R")
 
 # Extract posterior samples -----------------------------------------------
 

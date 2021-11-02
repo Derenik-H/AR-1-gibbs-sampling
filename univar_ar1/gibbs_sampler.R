@@ -1,6 +1,6 @@
 # Helpers -----------------------------------------------------------------
 
-source("full_conditionals.R")
+source("univar_ar1/full_conditionals.R")
 
 # Gibbs sampler parameters ------------------------------------------------
 
